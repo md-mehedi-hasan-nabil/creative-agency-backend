@@ -1,11 +1,6 @@
 ﻿# creative-agency-backend
  
  # Frontend Interview Preparation for Interns & Junior Developers 📚
-
-> #### `Click` ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
-
-> #### `Special Thanks` ❤️ to those, whose contributions have been shared here and those who are contributing here.
-
 ---
 ## 💎 Interview Preparation Process
 
